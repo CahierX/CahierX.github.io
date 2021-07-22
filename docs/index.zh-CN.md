@@ -1,6 +1,6 @@
 ---
 hero:
-  title: Site Name
+  title: smart-power-plant
   desc: dumi site app 脚手架
   actions:
     - text: 快速上手
