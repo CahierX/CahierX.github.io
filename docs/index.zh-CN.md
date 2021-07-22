@@ -1,7 +1,7 @@
 ---
 hero:
   title: smart-power-plant
-  desc: dumi site app 脚手架
+  desc: smart-power-plant文档
   actions:
     - text: 快速上手
       link: /getting-started
