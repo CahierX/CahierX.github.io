@@ -1,4 +1,4 @@
-# dumi app
+# smart-power-plant
 
 ## Getting Started
 
